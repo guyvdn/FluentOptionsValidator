@@ -1,6 +1,10 @@
 # FluentOptionsValidator
 Combining FluentValidation and IValidateOptions into one
 
+## NuGet
+
+[https://www.nuget.org/packages/FluentOptionsValidator](https://www.nuget.org/packages/FluentOptionsValidator)
+
 ## Usage
 
 Inherit from `FluentOptionsValidator<>` where you would normaly use `AbstractValidator<>`
