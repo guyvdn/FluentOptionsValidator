@@ -1,4 +1,4 @@
-# FluentOptionsValidator
+# FluentOptionsValidator  [![NuGet Version](http://img.shields.io/nuget/v/FluentOptionsValidator.svg?style=flat)](https://www.nuget.org/packages/FluentOptionsValidator/)
 Combining FluentValidation and IValidateOptions into one
 
 ## NuGet
