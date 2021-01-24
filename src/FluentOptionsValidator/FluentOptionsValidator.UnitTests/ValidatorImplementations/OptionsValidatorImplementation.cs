@@ -9,7 +9,7 @@ namespace FluentOptionsValidator.UnitTests.ValidatorImplementations
         public ValidateOptionsResult Validate(string name, ClassToValidate options)
         {
             if (string.IsNullOrEmpty(options.Name))
-                return  ValidateOptionsResult.Fail("Name should nog be empty");
+                return  ValidateOptionsResult.Fail("Name should not be empty");
 
             return ValidateOptionsResult.Success;
         }
